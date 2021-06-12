@@ -1,3 +1,3 @@
-# Alura-TIPOCURSO
+# Alura-React
 
-Nome do Curso - NOMECURSO
+Nome do Curso - [React: Entendendo como a biblioteca funciona](https://cursos.alura.com.br/course/react-js)
